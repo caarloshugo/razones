@@ -1,7 +1,7 @@
 <div class="welcome">
 	<?php if($user["language"] == "es") { ?>
 		<h2>
-			Bienvenid<?php echo (isset($user["gender"])) ? "a" : "o";?> <?php echo $user["name"];?> a Razones Fundar!
+			Bienvenid<?php echo (isset($user["gender"])) ? "a" : "o";?> <?php echo $user["name"];?> a Razones Fundar bal bla bla bla bla bla bla bla bla bla bla bla bla!
 		</h2>
 	<?php } else { ?>
 		<h2>
@@ -36,12 +36,10 @@
 	<!-- Seccion para Trabajar -->
 	<div class="section trabajar">
 		<ul>	
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/work/LP-case-study-ACIJ.pdf" title="LP case study ACIJ">LP case study ACIJ</a>
-			</li>
-			
 			<li class="doc">
-				<a href="<?php print get('webURL'); ?>/documents/work/Amasango_write_up.docx" title="Amasango write up">Amasango write up</a>
+				<a href="<?php print get('webURL'); ?>/documents/TextoDonantesRazonesFundar.doc" title="Documento Razones Fundar">
+					Documento Razones Fundar
+				</a>
 			</li>
 		</ul>
 
