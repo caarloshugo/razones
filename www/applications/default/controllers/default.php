@@ -14,20 +14,9 @@ class Default_Controller extends ZP_Controller {
 		$this->Templates->theme();
 		
 		$this->users = array(
-			"horacio-corti"      => array("name" => "Horacio Corti", 	  "language" => "es"),
-			"martin-sigal"       => array("name" => "Martín Sigal", 	  "language" => "es"),
-			"mary-page"          => array("name" => "Mary R. Page", 	  "language" => "en", "gender" => true),
-			"helena-hofbauer"    => array("name" => "Helena Hofbauer", 	  "language" => "es", "gender" => true),
-			"sharon-bissell"     => array("name" => "Sharon Bissell Sotelo ", "language" => "en", "gender" => true),
-			"diego-morales"      => array("name" => "Diego Morales", 	  "language" => "es", "flight" => "MORALES-Diego"),
-			"sergio-chaparro"    => array("name" => "Sergio Chaparro", 	  "language" => "es", "flight" => "CHAPARRO-Sergio"),
-			"lucia-antunez"      => array("name" => "Lucía Antunez", 	  "language" => "es", "gender" => true, "flight" => "ANTUNEZPERCINC-LA-Dalile"),
-			"ivan-marcelo"       => array("name" => "Ivan Marcelo Borja", "language" => "es", "flight" => "BORJABORJA-Ivan-Marcelo"),
-			"mario-celada"       => array("name" => "Mario Celada", 	  "language" => "es", "flight" => "CELADA-Mario"),
-			"jorge-romano"        => array("name" => "Jorge Romano", 	  "language" => "es", "flight" => "ROMANO-Jorge"),
-			"jay-kruus"          => array("name" => "Jay Kruus",     	  "language" => "en", "flight" => "KRUUSE-Jay"),
-			"elizabeth-missokia" => array("name" => "Elizabeth Missokia", "language" => "en", "flight" => "MISSOKIA-Elizabeth"),
-			"john-mutua"		 => array("name" => "John Mutua", 		  "language" => "en", "flight" => "MUTUA-John")
+			"donante-numero-1"  => array("name" => "Donante Numero 1", 	  "language" => "es"),
+			"donante-numero-2"  => array("name" => "Donante Numero 2", 	  "language" => "es"),
+			"donante-numero-3"  => array("name" => "Donante Numero 3", 	  "language" => "es")
 		); 
 	}
 	
