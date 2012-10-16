@@ -61,7 +61,7 @@ body { font-family: "Droid Sans", "PT Sans Caption", arial; overflow-x:hidden;  
 } 
 .section-icons-min { float:left; width:100%; height:70px; }
 
-#footer { float:left; width:100%; height:auto; border-top:9px solid #1e4683; margin-top:50px; }
+#footer { float:left; width:100%; height:auto; border-top:9px solid #1e4683; margin-top:101px; }
 #footer a { text-decoration:none; margin-left:45px; }
 .clear { clear:both; }
-.left { float:right; font-size:13px; }
+.left { float:right; font-size:11px; }
