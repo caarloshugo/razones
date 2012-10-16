@@ -44,7 +44,7 @@ body { font-family: "Droid Sans", "PT Sans Caption", arial; overflow-x:hidden;  
 .section { float:left; }
 .section ul { list-style:none; height:205px; }
 .section ul li { margin-top:5px; list-style:none; height:18px; background:url(images/pdf.png); background-repeat:no-repeat; }
-.section ul li a { margin-left:24px; }
+.section ul li a { color:#000; margin-left:24px; }
 
 .doc { background:url(images/doc.png) !important; background-repeat:no-repeat !important; }
 .xls { background:url(images/xls.png) !important; background-repeat:no-repeat !important; }
@@ -63,5 +63,6 @@ body { font-family: "Droid Sans", "PT Sans Caption", arial; overflow-x:hidden;  
 
 #footer { float:left; width:100%; height:auto; border-top:9px solid #1e4683; margin-top:101px; }
 #footer a { text-decoration:none; margin-left:-20px; }
+.height { height: 251px !important }
 .clear { clear:both; }
 .left { float:right; font-size:11px; }
