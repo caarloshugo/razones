@@ -19,14 +19,6 @@
 				</h1>
 			</div>
 
-			<a class="home twitter" href="http://twitter.com/FundarMexico" title="Fundar Twitter">
-				<img src="<?php print $this->themePath; ?>/css/images/twitter.png" alt="Fundar Twitter" />
-			</a>
-			<a class="home facebook" href="http://www.facebook.com/FundarMexico" title="Fundar Facebook">
-				<img src="<?php print $this->themePath; ?>/css/images/facebook.png" alt="Fundar Facebook" />
-			</a>
-			<a class="home youtube" href="http://www.youtube.com/fundarac" title="Fundar Youtube">
-				<img src="<?php print $this->themePath; ?>/css/images/youtube.png" alt="Fundar Youtube" />
-			</a>			
+					
 			
 		

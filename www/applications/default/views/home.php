@@ -23,9 +23,6 @@
 				<a href="http://razonesfundar.org" target="_blank" title="Razones Fundar">Razones Fundar</a>
 			</li>
 			<li class="link">
-				<a href="http://www.fundar.org.mx" target="_blank" title="Fundar, Centro de Análisis e Investigación">Fundar, Centro de An&aacute;lisis e Investigaci&oacute;n</a>
-			</li>
-			<li class="link">
 				<a href="http://www.flickr.com//photos/54684268@N06/sets/72157631575521247/show/" target="_blank" title="Galería Fotográfica">Galer&iacute;a Fotogr&aacute;fica</a>
 			</li>
 		</ul>
@@ -41,7 +38,7 @@
 		<ul>	
 			<li class="doc">
 				<a href="<?php print get('webURL'); ?>/documents/TextoDonantesRazonesFundar.doc" title="Documento Razones Fundar">
-					Documento Razones Fundar
+					Presentaci&oacute;n Razones Fundar
 				</a>
 			</li>
 		</ul>
