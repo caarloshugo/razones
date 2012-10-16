@@ -35,7 +35,13 @@
 	
 	<!-- Seccion para Trabajar -->
 	<div class="section trabajar">
-		<ul>	
+		<ul>
+			<p class="paragraph">
+				El pasado 12 de septiembre, 
+				presentamos frente a medios de comunicación y público en general, 
+				un conjunto de propuestas y perspectivas que llamamos: 
+				Razones Fundar: propuestas para un nuevo sexenio.
+			</p>	
 			<li class="doc">
 				<a href="<?php print get('webURL'); ?>/documents/TextoDonantesRazonesFundar.doc" title="Documento Razones Fundar">
 					Presentaci&oacute;n Razones Fundar
