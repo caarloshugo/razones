@@ -1,11 +1,11 @@
 <div class="welcome">
 	<?php if($user["language"] == "es") { ?>
 		<h2>
-			Bienvenid<?php echo (isset($user["gender"])) ? "a" : "o";?> <?php echo $user["name"];?> a Razones Fundar bal bla bla bla bla bla bla bla bla bla bla bla bla!
+			Bienvenid<?php echo (isset($user["gender"])) ? "a" : "o";?> <?php echo $user["name"];?> al sitio Web Razones Fundar
 		</h2>
 	<?php } else { ?>
 		<h2>
-			Welcome <?php echo $user["name"];?> to the Seminar: Human rights, public budgets and the Judiciary
+			Bienvenid<?php echo (isset($user["gender"])) ? "a" : "o";?> <?php echo $user["name"];?> al sitio web Razones Fundar
 		</h2>
 	<?php } ?>
 </div>
