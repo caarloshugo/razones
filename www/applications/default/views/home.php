@@ -23,13 +23,16 @@
 				<a href="http://razonesfundar.org" target="_blank" title="Razones Fundar">Razones Fundar</a>
 			</li>
 			<li class="link">
+				<a href="http://www.fundar.org.mx" target="_blank" title="Fundar, Centro de Análisis e Investigación">Fundar, Centro de An&aacute;lisis e Investigaci&oacute;n</a>
+			</li>
+			<li class="link">
 				<a href="http://www.flickr.com//photos/54684268@N06/sets/72157631575521247/show/" target="_blank" title="Galería Fotográfica">Galer&iacute;a Fotogr&aacute;fica</a>
 			</li>
 		</ul>
 		
 		<div class="section-icons-min">
-			<div class="min-icon trabajar-icon-min trabajar-icon-min-en"></div>
-			<div class="min-icon documentos-icon-min documentos-icon-min-en"></div>
+			<div class="min-icon trabajar-icon-min trabajar-icon-min-es"></div>
+			<div class="min-icon documentos-icon-min documentos-icon-min-es"></div>
 		</div>
 	</div>
 	
@@ -44,8 +47,8 @@
 		</ul>
 
 		<div class="section-icons-min">
-			<div class="min-icon info-icon-min info-icon-min-en"></div>
-			<div class="min-icon documentos-icon-min documentos-icon-min-en"></div>
+			<div class="min-icon info-icon-min info-icon-min-es"></div>
+			<div class="min-icon documentos-icon-min documentos-icon-min-es"></div>
 		</div>
 	</div>
 	
